@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c5941ecabd315008aa6d5e6e89b7dc7902b34adf",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-06-05 12:35:20",
+    "files": 1,
+    "merge": false,
+    "message": "Cleanup Travis config\n"
+  },
+  "remote": "https://github.com/ropensci/USAboundaries",
+  "pkg": "USAboundaries"
+}
