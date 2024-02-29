@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0f56f4920ec353d84651d7f941d510b1197317d3",
+    "author": "Lincoln Mullen <lincoln@lincolnmullen.com>",
+    "time": "2021-10-12 14:59:19",
+    "files": 10,
+    "merge": false,
+    "message": "Correct URLs as necessary\n"
+  },
+  "repo": "https://github.com/ropensci/USAboundaries",
+  "pkg": "USAboundaries"
+}
