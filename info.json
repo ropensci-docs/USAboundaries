@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0801c36c7547841ea88a94f6e9cd02115005192a",
+    "author": "Jacci Ziebert <jacciziebert@gmail.com>",
+    "time": "2026-01-29T22:51:48Z",
+    "files": 3,
+    "merge": false,
+    "message": "moved analysis\n"
+  },
+  "repo": "https://github.com/ropensci/USAboundaries",
+  "pkg": "USAboundaries",
+  "time": "2026-08-18T15:25:28Z"
+}
